@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b7e2ba64712566c4aa603e3692f131de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - box_Prefab1: {instanceID: 0}
+  - box_Prefab2: {instanceID: 0}
+  - box_Prefab3: {instanceID: 0}
+  - box_Prefab4: {instanceID: 0}
+  - box_Prefab5: {instanceID: 0}
+  - box_Prefab6: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
